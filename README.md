@@ -1,1 +1,1 @@
-# cophy
+Voici un resumer de notre projet:
